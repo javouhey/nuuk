@@ -1,0 +1,18 @@
+{
+  "name": "nuuk",
+  "version": "0.0.1",
+  "description": "miscellaneous ramblings in code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/javouhey/nuuk.git"
+  },
+  "author": "Gavin Bong",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/javouhey/nuuk/issues"
+  }
+}
