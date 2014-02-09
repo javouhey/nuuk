@@ -1,6 +1,6 @@
 # nuuk
 
-![alt text](https://travis-ci.org/javouhey/nuuk.png "Logo Title Text 1")
+[alt text](https://travis-ci.org/javouhey/nuuk.png "Logo Title Text 1")
 
 Capital of Greenland.
 Also the name for this project.
