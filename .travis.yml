@@ -1,0 +1,13 @@
+language: 
+  - python
+  - node_js
+  - go
+go:
+  - tip
+python:
+  - "2.7"
+node_js:
+  - "0.11"
+before_script:
+  - "pip install -r requirements.txt"
+script: make
