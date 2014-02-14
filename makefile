@@ -1,9 +1,12 @@
 all: test
 
-test: testjs testpy
+test: testjs testpy testgo
 
 testjs:
 	node index.js
+
+testgo:
+	make -C shortestrep all
 
 testpy: collect1 collect2
 
