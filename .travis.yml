@@ -13,5 +13,5 @@ jdk:
   - oraclejdk7
 before_script:
   - "pip install -r requirements.txt"
-  - "sudo apt-get install gradle"
+  - "echo $JAVA_HOME"
 script: make
