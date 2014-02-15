@@ -10,7 +10,6 @@ python:
 node_js:
   - "0.11"
 jdk:
-  - openjdk7
   - oraclejdk7
 before_script:
   - "pip install -r requirements.txt"
