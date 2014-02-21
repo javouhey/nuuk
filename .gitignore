@@ -2,6 +2,7 @@
 
 *.data
 *.txt
+.gradle
 
 # C extensions
 *.so
