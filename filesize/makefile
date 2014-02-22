@@ -3,4 +3,4 @@ all: test
 test: testjava
 
 testjava:
-	gradle check
+	gradle test

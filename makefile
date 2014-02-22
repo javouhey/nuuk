@@ -7,6 +7,7 @@ testjs:
 
 testgo:
 	make -C shortestrep all
+	make -C stack all
 
 testjava:
 	make -C filesize all
